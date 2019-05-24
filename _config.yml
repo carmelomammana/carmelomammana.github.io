@@ -14,7 +14,7 @@ sass:
 # permalink and highlighter
 permalink   : /:year/:title/
 markdown    : kramdown
-highlighter : rouge
+highlighter : pygments
 
 # SEO settings
 title: dotX
