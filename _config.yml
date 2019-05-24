@@ -32,3 +32,5 @@ google_api_key:
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-cayman
