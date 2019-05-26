@@ -1,11 +1,15 @@
 ---
 layout: page
 title: About me
-tags: [about, Jekyll, theme, moon]
+tags: [about, school, skill]
 date: 2019-05-25
 comments: false
 ---
     
 <left>My name is Carmelo Mammana, i live in Florence, Italy. I'm born in October 1996. 
-I graduated as a Computer Science at ISIS Gobetti - Volta and now i'm specialized as a C# Game Developer.</left> 
+I graduated as a Computer Science and now i'm specialized as a C# Game Developer.</left> 
 
+##SCHOOLS
+<left> I studied from 2009 to 2016 at ISIS Gobetti - Volta and i graduated with 70/100. </left>
+
+<left> From 2016 to 2019 i studied at TheSign - Comics & Arts Academy Firenze / Event Horizon School </left>   
