@@ -1,16 +1,16 @@
----
+﻿---
 layout: post
-title:  "Moon Jekyll Theme"
+title:  "AR Unity Project"
 date:   2016-04-06
-excerpt: "Minimal, one column Jekyll theme for your blog."
+excerpt: "Simple AR Unity project where you can move objects on waypoints that you have placed before."
 project: true
 tag:
-- jekyll 
-- moon
-- blog
-- about
-- theme
-comments: true
+- Unity
+- ARKit
+- AR
+- Apple
+- Android
+comments: false
 ---
 
 ![Moon Homepage](https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png)    
