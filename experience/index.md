@@ -7,20 +7,17 @@ comments: false
 ---
     
 ## SKILLS
-<left> Programming languages: </left> 
-<br> 
+#### Programming languages:  
 <left> C, C++, C#, Java </left>
 <br>
 <left> HTML, CSS, PHP, SQL </left>
 
-<br> <br>
-
-<left> Software skills: </left>
 <br>
+
+####Software skills:
 <left> Unity, Versioning System (Git), Windows/macOS </left>
 
-<br><br>
-
-<left>  Personality: </left>
 <br>
+
+#### Personality:
 <left> Optimistic, Group worker, Positive, Determinated </left> ![test](/assets/bg.png)
