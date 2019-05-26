@@ -14,7 +14,7 @@ comments: false
 
 <br>
 
-####Software skills:
+#### Software skills:
 <left> Unity, Versioning System (Git), Windows/macOS </left>
 
 <br>
