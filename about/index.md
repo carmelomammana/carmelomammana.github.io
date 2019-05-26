@@ -11,7 +11,7 @@ I graduated as a Computer Science and now i'm specialized as a C# Game Developer
 
 <br><br>
 
-##PERSONAL INFROMATION
+## PERSONAL INFROMATION
 <br>
 <left> Date of birth: 24/10/1996 </left>
 <left> Place of birth: Florence, Italy </left>
@@ -19,7 +19,7 @@ I graduated as a Computer Science and now i'm specialized as a C# Game Developer
 
 <br>
 
-##EDUCATION
+## EDUCATION
 <br>
 <left> I studied from 2009 to 2016 at ISIS Gobetti - Volta and i graduated with 70/100. </left>
 <br>
