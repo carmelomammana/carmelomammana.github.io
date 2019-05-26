@@ -20,4 +20,4 @@ comments: false
 <br>
 
 #### Personality:
-<left> Optimistic, Group worker, Positive, Determinated </left> ![test](/assets/img/bg.png)
+<left> Optimistic, Group worker, Positive, Determinated </left> ![test](assets/img/bg.png)
