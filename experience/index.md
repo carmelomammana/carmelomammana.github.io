@@ -23,4 +23,4 @@ comments: false
 
 <left>  Personality: </left>
 <br>
-<left> Optimistic, Group worker, Positive, Determinated </left> (assets/bg.png)
+<left> Optimistic, Group worker, Positive, Determinated </left> ![test](/assets/bg.png)
