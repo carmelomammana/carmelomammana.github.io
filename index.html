@@ -21,6 +21,48 @@
 
 </head>
 
+<style>
+.button {
+  display: inline-block;
+  border-radius: 4px;
+  background-color: #ff6600;
+  border: none;
+  color: #ffffff;
+  text-align: center;
+  font-size: 28px;
+  padding: 20px;
+  width: 200px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.button span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.button:hover span {
+  padding-right: 25px;
+}
+
+.button:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+</style>
+
 <body id="page-top">
 
   <!-- Navigation -->
@@ -103,72 +145,12 @@
 		  <br> <hr>
 		  <!-- Third -->
 		  <div>
-			<i class="fas fa-laptop-code fa-5x"></i><br><br>
-					<p>
-						<b>Full resume</b> 
-					</p>
-					
-					<p>
-						This is my full CV -> <a href="img/cv_2019.pdf"> Resume </a>
-					</p>
+			<p><font size="6"><b> My full resume </b></font></p>
+			<button class="button" style="vertical-align:middle" onclick=" window.open('documents/cv_2019.pdf', '_blank'); return false;"><span>Italian</span></button>
+			<button class="button" style="vertical-align:middle" onclick=" window.open('documents/cv_2019.pdf', '_blank'); return false;"><span>English</span></button>
 		  </div>
 		  
-		  <!-- <table> -->
-		  <!-- <col width="300"> -->
-		  <!-- <col width="300"> -->
-		  <!-- <col width="300"> -->
-			<!-- <tr> -->
-				<!-- <!--FIRST COLUMN -->  -->
-				 
-				<!-- <td style="padding:0 15px 0 15px;">  -->
-					<!-- <i class="fas fa-users fa-5x"></i> <br><br> -->
-					<!-- <p> -->
-						<!-- <b>Team work</b>  -->
-					<!-- </p> -->
-					<!-- <p> -->
-					<!-- I love working in teams and keeping busy. <br> -->
-					<!-- When I work on any project I love to give my best to help the team to create the best product. <br> -->
-					
-				<!-- </td> -->
-
-				<!-- <!--SECOND COLUMN -->  -->
-				<!-- <br> -->
-				<!-- <td style="padding:0 15px 0 15px;">  -->
-					<!-- <i class="fas fa-laptop-code fa-5x"></i><br><br> -->
-					<!-- <p> -->
-						<!-- <b>Coding &#38 Problems</b>  -->
-					<!-- </p> -->
-					<!-- <p> -->
-					<!-- I have a great passion for coding and for problem solving<br> -->
-					<!-- I like to write the more efficent and clean code possibile and also challenging and solving the problems with my team. -->
-					
-					<!-- Below there are some of my skills that I'm used in my projects: -->
-					<!-- <u></u> -->
-						<!-- <ul> -->
-							<!-- <li>Programming languages: C/C++, C#</li> -->
-							<!-- <li>Version Control Software: Git</li> -->
-							<!-- <li>Projects Managemnent Tools: Trello </li> -->
-							<!-- <li>Software: Visual Studio, JetBrains Rider, Xcode </li> -->
-							<!-- <li>Engines: Unity </li> -->
-						<!-- </ul> -->
-					<!-- </p> -->
-					<!-- </p> -->
-				<!-- </td> -->
-				
-				<!-- <!--THIRD COLUMN -->  -->
-				
-				<!-- <td style="padding:0 5px 0 15px;">  -->
-					<!-- <i class="fas fa-users fa-5x"></i> <br><br> -->
-					<!-- <p> -->
-						<!-- <b>Team work</b>  -->
-					<!-- </p> -->
-					<!-- <p> -->
-					<!-- I love working in teams and keeping busy. <br> -->
-					<!-- When I work on any project I love to give my best to help the team to create the best product. -->
-					<!-- </p> -->
-				<!-- </td> -->
-			<!-- </tr> -->
-		  <!-- </table> -->
+		 
 		 
           <!-- <ul>
             <li>Clickable nav links that smooth scroll to page sections</li>
